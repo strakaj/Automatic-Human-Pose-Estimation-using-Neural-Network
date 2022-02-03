@@ -1,3 +1,5 @@
+import albumentations as A
+
 transform = A.Compose(
     [A.HorizontalFlip(p=0.5), 
      A.RandomBrightnessContrast(p=0.6), 
