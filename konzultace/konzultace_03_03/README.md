@@ -1,4 +1,12 @@
 
+|                     |                     |                      |
+|---------------------|---------------------|----------------------|
+| ![](gifs/v1_bb.gif) | ![](gifs/v1_kp.gif) | ![](gifs/v1_kpl.gif) |
+| ![](gifs/v2_bb.gif) | ![](gifs/v2_kp.gif) | ![](gifs/v2_kpl.gif) |
+| ![](gifs/v3_bb.gif) | ![](gifs/v3_kp.gif) | ![](gifs/v3_kpl.gif) |
+
+
+
 ### Full dataset
 
 ![](00-01-ep50.png)
