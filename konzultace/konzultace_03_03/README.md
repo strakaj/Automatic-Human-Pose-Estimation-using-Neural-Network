@@ -1,13 +1,3 @@
-### YOLOv5 + DePOTR
-|                      |                      |
-|----------------------|----------------------|
-| ![](gifs/v3_bb.gif)  | ![](gifs/v3_kpl.gif) | 
-| ![](gifs/v1_bb.gif)  | ![](gifs/v1_kpl.gif) |
-| ![](gifs/v2_bb.gif)  | ![](gifs/v2_kpl.gif) |
-
-
-
-
 ### Full dataset
 
 ![](00-01-ep50.png)
@@ -34,3 +24,13 @@
 ![](hist0_err_40_50.png)
 
 ![](hist2_err_40_50.png)
+
+
+### YOLOv5 + DePOTR
+|                      |                      |
+|----------------------|----------------------|
+| ![](gifs/v3_bb.gif)  | ![](gifs/v3_kpl.gif) | 
+| ![](gifs/v1_bb.gif)  | ![](gifs/v1_kpl.gif) |
+| ![](gifs/v2_bb.gif)  | ![](gifs/v2_kpl.gif) |
+
+
