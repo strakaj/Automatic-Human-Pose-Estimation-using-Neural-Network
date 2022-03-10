@@ -27,10 +27,19 @@ http://www.vision.caltech.edu/mronchi/papers/ICCV17_PoseErrorDiagnosis_PAPER.pdf
 | cos   | ![](oks/cos60_oks_all.png)  | ![](oks/cos60_oks_medium.png) | ![](oks/cos60_oks_large.png) |
 
 #### Error
-|     | OKS = 0.95                     | OKS = 0.9                     | OKS = 0.85                     | OKS = 0.8                     | OKS = 0.75                    | OKS = 0.5                     |
-|-----|--------------------------------|-------------------------------|--------------------------------|-------------------------------|-------------------------------|-------------------------------|
-| lin | ![](errors/lin60_err_0.95.png) | ![](errors/lin60_err_0.9.png) | ![](errors/lin60_err_0.85.png) | ![](errors/lin60_err_0.8.png) | ![](errors/lin60_err_0.75.png) | ![](errors/lin60_err_0.5.png) |
-| cos | ![](errors/cos60_err_0.95.png) | ![](errors/cos60_err_0.9.png) | ![](errors/cos60_err_0.85.png) | ![](errors/cos60_err_0.8.png) | ![](errors/cos60_err_0.75.png) | ![](errors/cos60_err_0.5.png) |
+##### lin
+| OKS = 0.95                        | OKS = 0.9                        | OKS = 0.85                     |
+|-----------------------------------|----------------------------------|--------------------------------|
+| ![](errors/lin60_err_0.95.png)    | ![](errors/lin60_err_0.9.png)    | ![](errors/lin60_err_0.85.png) |
+| OKS = 0.8                         | OKS = 0.75                       | OKS = 0.5                     |
+| ![](errors/lin60_err_0.8.png)     | ![](errors/lin60_err_0.75.png)   | ![](errors/lin60_err_0.5.png) |
+
+##### cos
+| OKS = 0.95                        | OKS = 0.9                        | OKS = 0.85                     |
+|-----------------------------------|----------------------------------|--------------------------------|
+| ![](errors/cos60_err_0.95.png)    | ![](errors/cos60_err_0.9.png)    | ![](errors/cos60_err_0.85.png) |
+| OKS = 0.8                         | OKS = 0.75                       | OKS = 0.5                     |
+| ![](errors/cos60_err_0.8.png)     | ![](errors/cos60_err_0.75.png)   | ![](errors/cos60_err_0.5.png) |
 
 
 ### Baseline, Transpose
