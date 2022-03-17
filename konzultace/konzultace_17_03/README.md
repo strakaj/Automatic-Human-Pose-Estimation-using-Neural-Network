@@ -1,4 +1,3 @@
-
 ## Medium dataset
 
 
@@ -16,6 +15,9 @@
 ![](medium_dataset_16-17-18-19-20-21.png)
 
 ![](medium_dataset_20-21-23-24.png)
+
+## Full dataset res152
+![](res152.png)
 
 
 
@@ -35,9 +37,7 @@
 
 ![](full_dataset_03-04.png)
 
-
 ![](ap.png)
-
 
 
 | Max err                             |
