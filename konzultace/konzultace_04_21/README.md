@@ -20,10 +20,10 @@
 
 https://github.com/mhruz/POTR/blob/eca36197397daea99e0b4bfd47a83c101c4b6789/deformable_potr/models/deformable_potr.py#L161
 
-| epoch         | 9      | 19    |
-|---------------|--------|-------|
-| model 00 [AP] | 0.456  | 0.517 |
-| model 04 [AP] | 0.448  | 0.511 |
+| epoch         | 10     | 20    | 30    |
+|---------------|--------|-------|-------|
+| model 00 [AP] | 0.456  | 0.517 | 0.548 |
+| model 04 [AP] | 0.448  | 0.511 | 0.523 |
 
 ![](hm.png)
 
@@ -31,12 +31,12 @@ https://github.com/mhruz/POTR/blob/eca36197397daea99e0b4bfd47a83c101c4b6789/defo
 ## DePOTR + heatmaps + concatenation
 
 
-| epoch     | 9     | 19    |  
+| epoch     | 10     | 20    |  
 |-----------|-------|-------|
 | model 00  | 0.430 | 0.509 | 
 | model 02  | 0.530 | 0.581 | 
 | model 03  | 0.525 | 0.562 | 
-| model 04  | 0.537 |  |
+| model 04  | 0.537 |       |
 
 ![](hm+cat.png)
 
