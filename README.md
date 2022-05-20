@@ -1,6 +1,6 @@
 # Automatic Human Pose Estimation using Neural Network
 
-This repository contains codes used in master’s thesis: **Automatic Human Pose Estimation using Neural Network**.
+This repository contains codes used in the master’s thesis: **Automatic Human Pose Estimation using Neural Network**.
 
 In `model` directory are two models. Models are created as modifications of the DePOTR model: [POTR](https://github.com/mhruz/POTR).
 
@@ -13,7 +13,7 @@ conda activate de_potr
 
 Install package dependencies:
 ```
-pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 torchaudio==0.7.2 -f https://download.pytorch.org/whl/torch_stable.html 
+pip install torch==1.5.1+cu101 torchvision==0.6.1+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 pip install -r models/requirements.txt
 ```
 
