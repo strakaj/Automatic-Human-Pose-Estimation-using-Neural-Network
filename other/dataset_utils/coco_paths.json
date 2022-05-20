@@ -1,0 +1,5 @@
+{
+	"HOME_PATH" : "E:/Datasets",
+	"DATASET_IMAGES_PATH" : "COCO",
+	"DATASET_ANNOTATIONS_PATH" : "COCO/annotations"
+}

@@ -1,0 +1,14 @@
+torch
+torchvision
+einops
+h5py
+numpy
+matplotlib
+tqdm
+pandas
+seaborn
+scipy
+cython
+pycocotools
+albumentations
+opencv-python
