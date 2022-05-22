@@ -1,5 +1,10 @@
 # Automatic Human Pose Estimation using Neural Network
 
+|               |                    |
+|---------------|--------------------|
+| ![](assets/v2.gif) | ![](assets/v1.gif) |
+
+
 This repository contains codes used in the master’s thesis: **Automatic Human Pose Estimation using Neural Network**.
 
 In `model` directory are two models. Models are created as modifications of the DePOTR model: [POTR](https://github.com/mhruz/POTR). Results can be found [here](https://github.com/strakaj/Automatic-Human-Pose-Estimation-using-Neural-Network/tree/main/scripts). 
