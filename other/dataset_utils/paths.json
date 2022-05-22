@@ -1,5 +1,0 @@
-{
-	"HOME_PATH" : "D:/HumanPoseEstimation/Datasets",
-	"DATASET_IMAGES_PATH" : "MPII/mpii_human_pose_v1/images",
-	"DATASET_ANNOTATIONS_PATH" : "MPII/mpii_human_pose_v1_u12_2/mpii_human_pose_v1_u12_1.json"
-}
