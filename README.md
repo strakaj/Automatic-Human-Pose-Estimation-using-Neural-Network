@@ -2,7 +2,7 @@
 
 |               |                    |
 |---------------|--------------------|
-| ![](assets/v2.gif) | ![](assets/v1.gif) |
+| ![v2](assets/v2.gif) | ![v1](assets/v1.gif) |
 
 
 This repository contains codes used in the master’s thesis: **Automatic Human Pose Estimation using Neural Network**.
